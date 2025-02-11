@@ -60,19 +60,19 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'GamerJI',
-			icon: 'gamerji',
+			icon: 'gamepad',
 			link: 'https://portal.gamerji.com/',
 		},
 		{
 			id: '3',
 			name: 'Keep',
-			icon: 'keep',
+			icon: 'album',
 			link: 'https://keep.google.com/',
 		},
 		{
 			id: '4',
 			name: 'ChatGPT',
-			icon: 'chatgpt',
+			icon: 'bot',
 			link: 'https://chatgpt.com',
 		},
 		{
